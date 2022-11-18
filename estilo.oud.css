@@ -1,0 +1,47 @@
+/* SELETOR {
+  propriedade1: valor_1;
+  propriedade2: valor_2;
+}
+*/
+body {
+  background-color: rgb(9, 202, 112);
+}
+
+h1{
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* font-size: 36px; */
+  /* background-color: darkgoldenrod; */
+  text-align: center;
+  text-shadow: 10px;
+}
+
+p{
+  font-size: 16px;
+  color: brown;
+}
+
+div{
+  border: solid 1px;
+}
+
+#cabecalho{
+  height: 150px;
+  font-size: xx-large;
+}
+
+#corpo{
+  height: 600px;
+}
+
+#rodape{
+  height: 80px;
+}
+
+#parte_superior{
+  height: 120px;
+}
+
+#parte_inferior{
+  height: 480px;
+}
