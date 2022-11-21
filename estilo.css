@@ -7,6 +7,9 @@ div:nth-last-child(2){
 li:nth-of-type(1){
   color: green;
 }
+ol:nth-of-type(1){
+  color: rgb(219, 5, 112);
+}
 div:last-child{
   background: orange;
 }
@@ -19,6 +22,18 @@ div:last-of-type{
 p:only-child{
   font-size: 25px;
 }
-ul:only-of-type{`
-text-decoration: underline;
+ul:only-of-type{
+  text-decoration: underline;
+}
+
+h2 {
+  /* serif */
+  /* sans-serif */
+  /* cursive */
+  /* monospace */
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 10px;
+  font-style: inherit;
+  font-variant: small-caps;
+  font-weight: ;
 }
